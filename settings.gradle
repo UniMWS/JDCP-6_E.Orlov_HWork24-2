@@ -1,0 +1,5 @@
+rootProject.name = 'JDCP-6_E.Orlov_HWork24-2'
+
+include 'db'
+include 'service'
+include 'api'
